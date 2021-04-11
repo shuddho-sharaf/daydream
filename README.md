@@ -7,7 +7,7 @@ I first released the alpha version of the program on March 28, 2020. But it had 
 
 On April 2, I finally made the fully-functional version of the program. It worked unless the value of the 'year' variable was greater than or equal to 1600 and less than 2200. I was so happy that I started to try out every special date I could remember (even June 23, 1757). Then I made the second release (I named that beta, lol).
 
-> Note: I didn't know I missed the `return 0;` statement!
+> Note: I accidentally missed the `return 0;` statement!
 
 Finally, on April 11, 2021, I released the first stable version of the program. In this version, I tried to minimize the code as much as I could. But I do believe it could be made more efficient.
 
