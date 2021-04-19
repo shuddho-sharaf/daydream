@@ -1,22 +1,15 @@
 # Daydream
 
 ## The Story Behind This Program
-This was my first C++ program. A friend of mine (@ilham-daiee-muntahi) helped me with the procedure. Both me and Ilham learned the process of finding out the day from another friend of ours, Afia Farzana Priontee. The idea of making a program on that comes from Ilham's head. He created the program in his own way. I also created the program in my own style.
-
-I first released the alpha version of the program on March 28, 2020. But it had timeline restrictions.
-
-On April 2, I finally made the fully-functional version of the program. It worked unless the value of the 'year' variable was greater than or equal to 1600 and less than 2200. I was so happy that I started to try out every special date I could remember (even June 23, 1757). Then I made the second release (I named that beta, lol).
-
-> Note: I accidentally missed the `return 0;` statement!
-
-Finally, on April 11, 2021, I released the first stable version of the program. In this version, I tried to minimize the code as much as I could. But I do believe it could be made more efficient.
+This program is a part of my C++ journey. I never thought that I would write a program that can tell me the day, based on the date but I eventually made it! I got my inspirations from **Ilham Daiee Muntahi**, a great friend of mine. Man, you really helped me a lot with the procedure and exit system. I'm also grateful to **Afia Farzana Priontee** for teaching me the algorithm. This is a cool thing that I have learnt from you. Thanks to you guys!
 
 ## Try It Out!
-Check out the [releases](https://github.com/shuddho-sharaf/Daydream/releases) page to download the latest release. The program was compiled with the GNU G++ compiler and currently, it won't run on your machine if your machine is not running on **Windows**.
+Check out the [releases](https://github.com/shuddho-sharaf/Daydream/releases) page to download the latest release. Currently, the program is only usable on 64 bit Windows.
 
 ## Contribute
-The [source code](https://github.com/shuddho-sharaf/Daydream/tree/main/src) is available, you are free to contribute.
+The [source code](https://github.com/shuddho-sharaf/Daydream/tree/main/src) is available. If you want to tweak it then go for it!
 
 ## Don't thank me!
 I already mentioned the major contributors. So, thank them, not me.
+
 **Syonara!**
